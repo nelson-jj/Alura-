@@ -1,4 +1,4 @@
-# Alura-
+# Alura+
 Alura+ foi um projeto realizado junto da aula
 Sobre:
   - Eu esqueci de fazer uma pasta para as imagens
