@@ -1,5 +1,6 @@
 # Alura+
-Alura+ foi um projeto realizado junto da aula
+Alura+ foi um projeto realizado junto da aula.
+
 Sobre:
   - Eu esqueci de fazer uma pasta para as imagens
   - Tem poucas diferenças do projeto da aula, eu fiz todo acompanhando, mudei quase nada, só os comentários mesmo
